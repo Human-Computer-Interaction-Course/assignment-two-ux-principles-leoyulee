@@ -61,6 +61,19 @@ section{
     padding: 5px;
     margin: 10px;
 }
+.wiresection{
+	border: 2px solid;
+}
+.wiresection *{
+	border: 1px solid;
+}
+#sitemapsection{
+	background-color:teal;
+	border: 1px solid;
+}
+#sitemapsection+h2{
+	color:white;
+}
 img{
     width:100%;
     height:auto;
